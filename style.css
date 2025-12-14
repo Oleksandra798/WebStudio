@@ -3,61 +3,59 @@
     font-size: 26px ;
     font-weight: 600
 }
-p, h1, h2, h3, button {
+body {
     font-family: "Roboto", sans-serif;
 }
-.page {
-font-family: "Roboto", sans-serif;
+.nav-link:hover {
+background-color: aqua;
  font-size: 14px;
  font-weight: 500;
  line-height: auto;
- color: black;
 }
-.first-title {
+.title {
  font-size: 44px;
  font-weight: 700;
  line-height: 1.4;
  color: white;
 }
-.info-section {
+.section-title {
  font-size: 14px;
  font-weight: 500;
  line-height: auto;
  color: black;
 }
-.information {
+.list-description {
  font-size: 14px;
  font-weight: 500;
  line-height: 1.7;
  color: gray;
 }
-.second-title {
+.activity-title {
  font-size: 36px;
  font-weight: 700;
 line-height: auto;
  color: black;
 }
-.contact1 {
+.item-name {
  font-size: 16px;
  font-weight: 400;
  line-height: auto;
  color: rgb(0, 0, 0);
 }
-.contact2 {
+.info {
  font-size: 16px;
  font-weight: 400;
  line-height: auto;
  color: rgb(116, 116, 116);
 }
 .contact-form {
-    font-family: "Roboto", sans-serif;
  font-size: 14px;
  font-weight: 500;
  line-height: 1.7;
  color: rgb(123, 123, 123);
 }
-.btn {
-    font-family: "Roboto", sans-serif;
+.btn:hover {
+    background-color: blue;
     font-size: 16px;
  font-weight: 400;
  line-height: 1.9;
@@ -75,3 +73,23 @@ height: 260px;
 top: 1632px;
 left: 215px;
 }
+.email:hover {
+    background-color: aqua;
+ font-size: 14px;
+ font-weight: 500;
+ line-height: 1.7;
+}
+.phone:hover {
+    background-color: aqua;
+ font-size: 14px;
+ font-weight: 500;
+ line-height: 1.7;
+}
+.workers-title:hover {
+    color: black;
+ font-size: 36px;
+ font-weight: 700;
+line-height: auto;
+}
+.part1{ color: rgb(0, 132, 255); }
+.part2{ color: rgb(133, 131, 131); }
