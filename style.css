@@ -1,0 +1,77 @@
+.title-main {
+    font-family: "Raleway", sans-serif ;
+    font-size: 26px ;
+    font-weight: 600
+}
+p, h1, h2, h3, button {
+    font-family: "Roboto", sans-serif;
+}
+.page {
+font-family: "Roboto", sans-serif;
+ font-size: 14px;
+ font-weight: 500;
+ line-height: auto;
+ color: black;
+}
+.first-title {
+ font-size: 44px;
+ font-weight: 700;
+ line-height: 1.4;
+ color: white;
+}
+.info-section {
+ font-size: 14px;
+ font-weight: 500;
+ line-height: auto;
+ color: black;
+}
+.information {
+ font-size: 14px;
+ font-weight: 500;
+ line-height: 1.7;
+ color: gray;
+}
+.second-title {
+ font-size: 36px;
+ font-weight: 700;
+line-height: auto;
+ color: black;
+}
+.contact1 {
+ font-size: 16px;
+ font-weight: 400;
+ line-height: auto;
+ color: rgb(0, 0, 0);
+}
+.contact2 {
+ font-size: 16px;
+ font-weight: 400;
+ line-height: auto;
+ color: rgb(116, 116, 116);
+}
+.contact-form {
+    font-family: "Roboto", sans-serif;
+ font-size: 14px;
+ font-weight: 500;
+ line-height: 1.7;
+ color: rgb(123, 123, 123);
+}
+.btn {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+ font-weight: 400;
+ line-height: 1.9;
+ color: rgb(255, 253, 253);
+}
+.activity img {
+width: 370px;
+height: 294px;
+top: 1058px;
+left: 215px;
+}
+.workers img {
+width: 270px;
+height: 260px;
+top: 1632px;
+left: 215px;
+}
